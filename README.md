@@ -37,3 +37,7 @@ A desktop machine that will run Android Studio and Unity; a dedicated 3D graphic
 * [Augmented Reality Game Development](https://www.packtpub.com/application-development/augmented-reality-game-development?utm_source=github&utm_medium=repository&utm_campaign=9781787122888)
 
 * [Unity 2017 Game AI programming - Third Edition](https://www.packtpub.com/game-development/unity-2017-game-ai-programming-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788477901)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788830409">https://packt.link/free-ebook/9781788830409 </a> </p>
